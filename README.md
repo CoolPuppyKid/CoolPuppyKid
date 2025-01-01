@@ -15,7 +15,7 @@
 **Langauges I use:**
 ###### btw yes i know markdown is not a language
 
-[![Langauges](https://skillicons.dev/icons?i=zig,c,cs,python,md)](https://skillicons.dev)
+[![Langauges](https://skillicons.dev/icons?i=zig,c,cs,cpp,python,md)](https://skillicons.dev)
 
 **Tools I use:**
 

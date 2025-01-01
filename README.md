@@ -19,7 +19,7 @@
 
 **Tools I use:**
 
-[![Tools](https://skillicons.dev/icons?i=unity,blender,vscode,neovim)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=unity,blender,vscode,neovim,git)](https://skillicons.dev)
 
 **OS that im currently using:**
 

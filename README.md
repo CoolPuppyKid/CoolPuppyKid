@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=CoolPuppyKid&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-**Some repos you uight uind useful:**
+**Some repos you might find useful:**
 
 [Game Engine Template](https://github.com/CoolPuppyKid/Game-Engine-Template)
 

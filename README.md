@@ -4,6 +4,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=CoolPuppyKid&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
+  <a href="https://wakatime.com/@CoolPuppyKid">
+    <img width=500 src="https://github-readme-stats.vercel.app/api/wakatime?username=CoolPuppyKid&theme=github_dark_dimmed&langs_count=10" alt="CoolPuppyKid's wakatime stats" />
+  </a>
+
 **Some repos you might find useful:**
 
 [Game Engine Template](https://github.com/CoolPuppyKid/Game-Engine-Template)
